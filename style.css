@@ -66,7 +66,7 @@ nav {
 .home-section {
     height: 100vh;
     position: relative;
-    background: url('https://e0.pxfuel.com/wallpapers/149/259/desktop-wallpaper-web-development.jpg') no-repeat center center;
+    background: url(./images/background\ pic.jpg) no-repeat center center;
     background-attachment: fixed;
     background-position: center center;
     background-size: cover;
